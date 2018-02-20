@@ -1,2 +1,2 @@
 ### Simple blockchain written in go
-#### TODO: Add P2P functionality
+#### Can view in browser and make posts to chain
